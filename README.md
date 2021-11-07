@@ -1,4 +1,7 @@
-### Hello there 🐱‍👤
+## Hello there 🐱‍👤
+<br>Nome: Thiago Leite Soares</br>
+<br>Nascido em 14/11/2000</br>
+<br>Brasileiro. </br>
 
 - 🎯 Atualmente estudando HTML/CSS/JAVASCRIPT ...
 - (☞ﾟヮﾟ)☞ Level: Padawan 
