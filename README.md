@@ -1,9 +1,9 @@
 ## Hello there 🐱‍👤
 <div style="display: inline_block">
 <br>Nome: Thiago Leite Soares</br>
-<br>Nascido em 14/11/2000</br>
+<br>Nascido em: 14/11/2000</br>
 <br>Nacionalidade: Brasileira.</br>
-<br>Cursando:Analise e Desenvolvimento de Sistemas.👨‍💻🎓</br>
+<br>Cursando: Analise e Desenvolvimento de Sistemas.👨‍💻🎓</br>
 <p>Faculdade:<a href="https://www.cruzeirodosul.edu.br/" arget="_blank"> Cruzeiro do sul</p></a>
 </div>
 - 🎯 Atualmente estudando HTML/CSS/JAVASCRIPT ...
