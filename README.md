@@ -2,8 +2,8 @@
 <br>Nome: Thiago Leite Soares</br>
 <br>Nascido em 14/11/2000</br>
 <br>Nacionalidade:Brasileira.</br>
-<br>Cursando Analise e Desenvolvimento de Sistemas</br>
-<a href="https://www.cruzeirodosul.edu.br/"</a><br>Faculdade: Cruzeiro do sul</br>
+<br>Cursando: <>Analise e Desenvolvimento de Sistemas</>
+<p>Faculdade:</p><a href="https://www.cruzeirodosul.edu.br/" arget="_blank"><p>Cruzeiro do sul</p></a>
 - 🎯 Atualmente estudando HTML/CSS/JAVASCRIPT ...
 - (☞ﾟヮﾟ)☞ Level: Padawan 
 
