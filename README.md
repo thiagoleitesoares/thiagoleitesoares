@@ -6,7 +6,8 @@
 <br>Cursando: Analise e Desenvolvimento de Sistemas.👨‍💻🎓</br>
 <p>Faculdade:<a href="https://www.cruzeirodosul.edu.br/" arget="_blank"> Cruzeiro do sul</p></a>
 </div>
-- 🎯 Atualmente estudando HTML/CSS/JAVASCRIPT ...
+
+- 🎯 Atualmente estudando HTML/CSS/JAVASCRIPT 
 - (☞ﾟヮﾟ)☞ Level: Padawan 
 
 <div align="left">
