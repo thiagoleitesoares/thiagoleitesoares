@@ -9,8 +9,8 @@
   
   <div style="display: inline_block"><br>
   
-  <img align="center" alt="Thi-HTML" height="50" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
-  <img align="center" alt="Thi-CSS" height="50" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
+  <img align="left" alt="Thi-HTML" height="50" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
+  <img align="left" alt="Thi-CSS" height="50" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   <img align="right" alt="Thi-pic" height="150" style="border-radius:50px;" src="https://cdn.discordapp.com/attachments/906840537183711308/906844626684620840/GIF_GIT.gif">
 </div>
   <div> 
