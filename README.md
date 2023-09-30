@@ -3,12 +3,13 @@
 <br>Nome: Thiago Leite Soares</br>
 <br>Nascido em: 14/11/2000</br>
 <br>Nacionalidade: Brasileira.</br>
-<br>Cursando: Analise e Desenvolvimento de Sistemas.👨‍💻🎓</br>
+<br>Cursando: Pós-Graduação em Ciencias de dados</br>
+<br>Formado em: Analise e Desenvolvimento de Sistemas.👨‍💻🎓 </br>
 <p>Faculdade:<a href="https://www.cruzeirodosul.edu.br/" arget="_blank"> Cruzeiro do sul</p></a>
 </div>
 
-- 🎯 Atualmente estudando HTML/CSS/JAVASCRIPT 
-- (☞ﾟヮﾟ)☞ Level: Padawan 
+- 🎯 Atualmente estudando HTML/CSS/JS/Py
+- (☞ﾟヮﾟ)☞
 
 <div align="left">
   <img height="200em" src="https://github-readme-stats.vercel.app/api?username=thiagoleitesoares&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/> 
